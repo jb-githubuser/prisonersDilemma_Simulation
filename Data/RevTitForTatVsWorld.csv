@@ -1,0 +1,633 @@
+Game,Opponent,PlayerA_Score,PlayerB_Score,Cumulative_Score,CCs,DDs,Winner
+0,QLearningPlayer,218,233,451,26,25,QLearningPlayer
+1,QLearningPlayer,226,221,447,25,26,Player A
+2,QLearningPlayer,249,204,453,25,24,Player A
+3,QLearningPlayer,211,236,447,25,26,QLearningPlayer
+4,QLearningPlayer,254,189,443,30,29,Player A
+5,QLearningPlayer,240,205,445,26,27,Player A
+6,QLearningPlayer,222,237,459,22,21,QLearningPlayer
+7,QLearningPlayer,239,219,458,21,21,Player A
+8,QLearningPlayer,216,241,457,20,21,QLearningPlayer
+9,QLearningPlayer,197,252,449,27,26,QLearningPlayer
+10,QLearningPlayer,211,236,447,25,26,QLearningPlayer
+11,QLearningPlayer,221,231,452,24,24,QLearningPlayer
+12,QLearningPlayer,216,241,457,23,22,QLearningPlayer
+13,QLearningPlayer,223,233,456,22,22,QLearningPlayer
+14,QLearningPlayer,198,248,446,27,27,QLearningPlayer
+15,QLearningPlayer,232,212,444,28,28,Player A
+16,QLearningPlayer,233,213,446,27,27,Player A
+17,QLearningPlayer,216,236,452,24,24,QLearningPlayer
+18,QLearningPlayer,205,255,460,20,20,QLearningPlayer
+19,QLearningPlayer,240,210,450,25,25,Player A
+20,QLearningPlayer,207,242,449,24,25,QLearningPlayer
+21,QLearningPlayer,208,233,441,31,30,QLearningPlayer
+22,QLearningPlayer,266,181,447,25,26,Player A
+23,QLearningPlayer,231,221,452,24,24,Player A
+24,QLearningPlayer,269,184,453,25,24,Player A
+25,QLearningPlayer,212,242,454,23,23,QLearningPlayer
+26,QLearningPlayer,222,227,449,24,25,QLearningPlayer
+27,QLearningPlayer,211,231,442,29,29,QLearningPlayer
+28,QLearningPlayer,274,179,453,25,24,Player A
+29,QLearningPlayer,203,253,456,22,22,QLearningPlayer
+30,QLearningPlayer,180,270,450,25,25,QLearningPlayer
+31,QLearningPlayer,180,265,445,26,27,QLearningPlayer
+32,QLearningPlayer,224,234,458,21,21,QLearningPlayer
+33,QLearningPlayer,225,220,445,29,28,Player A
+34,QLearningPlayer,194,254,448,26,26,QLearningPlayer
+35,QLearningPlayer,226,211,437,30,31,Player A
+36,QLearningPlayer,217,232,449,27,26,QLearningPlayer
+37,QLearningPlayer,166,291,457,20,21,QLearningPlayer
+38,QLearningPlayer,209,234,443,30,29,QLearningPlayer
+39,QLearningPlayer,224,224,448,26,26,Tie
+40,QLearningPlayer,216,231,447,25,26,QLearningPlayer
+41,QLearningPlayer,174,279,453,25,24,QLearningPlayer
+42,QLearningPlayer,246,206,452,24,24,Player A
+43,QLearningPlayer,241,206,447,25,26,Player A
+44,QLearningPlayer,207,247,454,23,23,QLearningPlayer
+45,QLearningPlayer,211,236,447,28,27,QLearningPlayer
+46,QLearningPlayer,243,198,441,28,29,Player A
+47,QLearningPlayer,211,241,452,24,24,QLearningPlayer
+48,QLearningPlayer,212,242,454,23,23,QLearningPlayer
+49,QLearningPlayer,181,266,447,28,27,QLearningPlayer
+50,QLearningPlayer,264,184,448,26,26,Player A
+51,QLearningPlayer,192,252,444,28,28,QLearningPlayer
+52,QLearningPlayer,224,224,448,26,26,Tie
+53,QLearningPlayer,192,252,444,28,28,QLearningPlayer
+54,QLearningPlayer,229,214,443,27,28,Player A
+55,QLearningPlayer,207,242,449,27,26,QLearningPlayer
+56,QLearningPlayer,227,227,454,23,23,Tie
+57,QLearningPlayer,228,223,451,23,24,Player A
+58,QLearningPlayer,240,210,450,25,25,Player A
+59,QLearningPlayer,200,240,440,30,30,QLearningPlayer
+60,QLearningPlayer,178,278,456,22,22,QLearningPlayer
+61,QLearningPlayer,209,244,453,25,24,QLearningPlayer
+62,QLearningPlayer,237,212,449,24,25,Player A
+63,QLearningPlayer,256,191,447,28,27,Player A
+64,QLearningPlayer,236,211,447,25,26,Player A
+65,QLearningPlayer,250,205,455,24,23,Player A
+66,QLearningPlayer,256,191,447,25,26,Player A
+67,QLearningPlayer,207,247,454,23,23,QLearningPlayer
+68,QLearningPlayer,223,228,451,26,25,QLearningPlayer
+69,QLearningPlayer,235,210,445,26,27,Player A
+70,QLearningPlayer,238,208,446,27,27,Player A
+71,QLearningPlayer,248,203,451,26,25,Player A
+72,QLearningPlayer,228,228,456,22,22,Tie
+73,QLearningPlayer,262,182,444,28,28,Player A
+74,QLearningPlayer,200,245,445,26,27,QLearningPlayer
+75,QLearningPlayer,286,171,457,23,22,Player A
+76,QLearningPlayer,251,196,447,25,26,Player A
+77,QLearningPlayer,228,218,446,27,27,Player A
+78,QLearningPlayer,190,250,440,30,30,QLearningPlayer
+79,QLearningPlayer,259,189,448,26,26,Player A
+80,QLearningPlayer,248,203,451,26,25,Player A
+81,QLearningPlayer,246,211,457,20,21,Player A
+82,QLearningPlayer,207,242,449,27,26,QLearningPlayer
+83,QLearningPlayer,213,238,451,23,24,QLearningPlayer
+84,QLearningPlayer,197,257,454,23,23,QLearningPlayer
+85,QLearningPlayer,179,269,448,26,26,QLearningPlayer
+86,QLearningPlayer,228,218,446,27,27,Player A
+87,QLearningPlayer,194,254,448,26,26,QLearningPlayer
+88,QLearningPlayer,256,201,457,23,22,Player A
+89,QLearningPlayer,242,207,449,24,25,Player A
+90,QLearningPlayer,221,231,452,24,24,QLearningPlayer
+91,QLearningPlayer,208,243,451,26,25,QLearningPlayer
+92,QLearningPlayer,216,231,447,25,26,QLearningPlayer
+93,QLearningPlayer,258,188,446,27,27,Player A
+94,QLearningPlayer,249,214,463,20,19,Player A
+95,QLearningPlayer,232,217,449,24,25,Player A
+96,QLearningPlayer,157,297,454,23,23,QLearningPlayer
+97,QLearningPlayer,207,237,444,28,28,QLearningPlayer
+98,QLearningPlayer,243,208,451,26,25,Player A
+99,QLearningPlayer,212,237,449,24,25,QLearningPlayer
+100,QLearningPlayer,221,236,457,23,22,QLearningPlayer
+101,QLearningPlayer,222,222,444,28,28,Tie
+102,QLearningPlayer,291,166,457,20,21,Player A
+103,QLearningPlayer,243,203,446,27,27,Player A
+104,QLearningPlayer,261,181,442,29,29,Player A
+105,QLearningPlayer,211,246,457,23,22,QLearningPlayer
+106,QLearningPlayer,229,214,443,27,28,Player A
+107,QLearningPlayer,205,240,445,29,28,QLearningPlayer
+108,QLearningPlayer,245,200,445,26,27,Player A
+109,QLearningPlayer,182,267,449,27,26,QLearningPlayer
+110,QLearningPlayer,268,188,456,22,22,Player A
+111,QLearningPlayer,273,178,451,23,24,Player A
+112,QLearningPlayer,206,251,457,23,22,QLearningPlayer
+113,QLearningPlayer,213,233,446,27,27,QLearningPlayer
+114,QLearningPlayer,243,203,446,27,27,Player A
+115,QLearningPlayer,182,267,449,24,25,QLearningPlayer
+116,QLearningPlayer,306,146,452,24,24,Player A
+117,QLearningPlayer,271,186,457,23,22,Player A
+118,QLearningPlayer,236,211,447,25,26,Player A
+119,QLearningPlayer,188,273,461,21,20,QLearningPlayer
+120,QLearningPlayer,205,245,450,25,25,QLearningPlayer
+121,QLearningPlayer,228,223,451,23,24,Player A
+122,QLearningPlayer,207,242,449,27,26,QLearningPlayer
+123,QLearningPlayer,208,238,446,27,27,QLearningPlayer
+0,PatternLearningPlayer,227,207,434,33,33,Player A
+1,PatternLearningPlayer,238,198,436,32,32,Player A
+2,PatternLearningPlayer,227,207,434,33,33,Player A
+3,PatternLearningPlayer,238,198,436,32,32,Player A
+4,PatternLearningPlayer,224,224,448,26,26,Tie
+5,PatternLearningPlayer,238,198,436,32,32,Player A
+6,PatternLearningPlayer,224,224,448,26,26,Tie
+7,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+8,PatternLearningPlayer,222,227,449,27,26,PatternLearningPlayer
+9,PatternLearningPlayer,224,224,448,26,26,Tie
+10,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+11,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+12,PatternLearningPlayer,222,227,449,27,26,PatternLearningPlayer
+13,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+14,PatternLearningPlayer,222,227,449,27,26,PatternLearningPlayer
+15,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+16,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+17,PatternLearningPlayer,227,207,434,33,33,Player A
+18,PatternLearningPlayer,224,224,448,26,26,Tie
+19,PatternLearningPlayer,227,207,434,33,33,Player A
+20,PatternLearningPlayer,215,230,445,26,27,PatternLearningPlayer
+21,PatternLearningPlayer,232,202,434,33,33,Player A
+22,PatternLearningPlayer,244,209,453,25,24,Player A
+23,PatternLearningPlayer,227,207,434,33,33,Player A
+24,PatternLearningPlayer,238,198,436,32,32,Player A
+25,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+26,PatternLearningPlayer,222,227,449,27,26,PatternLearningPlayer
+27,PatternLearningPlayer,229,204,433,32,33,Player A
+28,PatternLearningPlayer,217,232,449,27,26,PatternLearningPlayer
+29,PatternLearningPlayer,238,198,436,32,32,Player A
+30,PatternLearningPlayer,227,207,434,33,33,Player A
+31,PatternLearningPlayer,227,207,434,33,33,Player A
+32,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+33,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+34,PatternLearningPlayer,250,200,450,25,25,Player A
+35,PatternLearningPlayer,222,227,449,27,26,PatternLearningPlayer
+36,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+37,PatternLearningPlayer,227,207,434,33,33,Player A
+38,PatternLearningPlayer,227,207,434,33,33,Player A
+39,PatternLearningPlayer,227,207,434,33,33,Player A
+40,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+41,PatternLearningPlayer,224,224,448,26,26,Tie
+42,PatternLearningPlayer,229,204,433,32,33,Player A
+43,PatternLearningPlayer,232,202,434,33,33,Player A
+44,PatternLearningPlayer,232,202,434,33,33,Player A
+45,PatternLearningPlayer,232,202,434,33,33,Player A
+46,PatternLearningPlayer,223,228,451,26,25,PatternLearningPlayer
+47,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+48,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+49,PatternLearningPlayer,229,204,433,32,33,Player A
+50,PatternLearningPlayer,222,227,449,27,26,PatternLearningPlayer
+51,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+52,PatternLearningPlayer,215,230,445,26,27,PatternLearningPlayer
+53,PatternLearningPlayer,217,232,449,27,26,PatternLearningPlayer
+54,PatternLearningPlayer,224,224,448,26,26,Tie
+55,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+56,PatternLearningPlayer,223,228,451,26,25,PatternLearningPlayer
+57,PatternLearningPlayer,238,198,436,32,32,Player A
+58,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+59,PatternLearningPlayer,238,198,436,32,32,Player A
+60,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+61,PatternLearningPlayer,227,207,434,33,33,Player A
+62,PatternLearningPlayer,227,207,434,33,33,Player A
+63,PatternLearningPlayer,229,204,433,32,33,Player A
+64,PatternLearningPlayer,222,227,449,27,26,PatternLearningPlayer
+65,PatternLearningPlayer,229,204,433,32,33,Player A
+66,PatternLearningPlayer,222,227,449,27,26,PatternLearningPlayer
+67,PatternLearningPlayer,229,204,433,32,33,Player A
+68,PatternLearningPlayer,244,209,453,25,24,Player A
+69,PatternLearningPlayer,227,207,434,33,33,Player A
+70,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+71,PatternLearningPlayer,224,224,448,26,26,Tie
+72,PatternLearningPlayer,229,204,433,32,33,Player A
+73,PatternLearningPlayer,244,209,453,25,24,Player A
+74,PatternLearningPlayer,227,207,434,33,33,Player A
+75,PatternLearningPlayer,215,230,445,26,27,PatternLearningPlayer
+76,PatternLearningPlayer,222,227,449,27,26,PatternLearningPlayer
+77,PatternLearningPlayer,224,224,448,26,26,Tie
+78,PatternLearningPlayer,229,204,433,32,33,Player A
+79,PatternLearningPlayer,232,202,434,33,33,Player A
+80,PatternLearningPlayer,244,209,453,25,24,Player A
+81,PatternLearningPlayer,238,198,436,32,32,Player A
+82,PatternLearningPlayer,224,224,448,26,26,Tie
+83,PatternLearningPlayer,227,207,434,33,33,Player A
+84,PatternLearningPlayer,224,224,448,26,26,Tie
+85,PatternLearningPlayer,224,224,448,26,26,Tie
+86,PatternLearningPlayer,224,224,448,26,26,Tie
+87,PatternLearningPlayer,229,204,433,32,33,Player A
+88,PatternLearningPlayer,232,202,434,33,33,Player A
+89,PatternLearningPlayer,232,202,434,33,33,Player A
+90,PatternLearningPlayer,244,209,453,25,24,Player A
+91,PatternLearningPlayer,224,224,448,26,26,Tie
+92,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+93,PatternLearningPlayer,219,229,448,26,26,PatternLearningPlayer
+94,PatternLearningPlayer,217,232,449,27,26,PatternLearningPlayer
+95,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+96,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+97,PatternLearningPlayer,244,209,453,25,24,Player A
+98,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+99,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+100,PatternLearningPlayer,223,228,451,26,25,PatternLearningPlayer
+101,PatternLearningPlayer,229,204,433,32,33,Player A
+102,PatternLearningPlayer,217,232,449,27,26,PatternLearningPlayer
+103,PatternLearningPlayer,227,207,434,33,33,Player A
+104,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+105,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+106,PatternLearningPlayer,250,200,450,25,25,Player A
+107,PatternLearningPlayer,223,228,451,26,25,PatternLearningPlayer
+108,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+109,PatternLearningPlayer,222,227,449,27,26,PatternLearningPlayer
+110,PatternLearningPlayer,238,198,436,32,32,Player A
+111,PatternLearningPlayer,238,198,436,32,32,Player A
+112,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+113,PatternLearningPlayer,223,228,451,26,25,PatternLearningPlayer
+114,PatternLearningPlayer,224,224,448,26,26,Tie
+115,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+116,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+117,PatternLearningPlayer,244,209,453,25,24,Player A
+118,PatternLearningPlayer,224,224,448,26,26,Tie
+119,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+120,PatternLearningPlayer,224,224,448,26,26,Tie
+121,PatternLearningPlayer,227,207,434,33,33,Player A
+122,PatternLearningPlayer,224,224,448,26,26,Tie
+123,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+124,PatternLearningPlayer,232,202,434,33,33,Player A
+125,PatternLearningPlayer,219,229,448,26,26,PatternLearningPlayer
+126,PatternLearningPlayer,250,200,450,25,25,Player A
+127,PatternLearningPlayer,222,227,449,27,26,PatternLearningPlayer
+128,PatternLearningPlayer,227,207,434,33,33,Player A
+129,PatternLearningPlayer,224,224,448,26,26,Tie
+130,PatternLearningPlayer,224,224,448,26,26,Tie
+131,PatternLearningPlayer,224,224,448,26,26,Tie
+132,PatternLearningPlayer,224,224,448,26,26,Tie
+133,PatternLearningPlayer,229,204,433,32,33,Player A
+134,PatternLearningPlayer,222,227,449,27,26,PatternLearningPlayer
+135,PatternLearningPlayer,229,204,433,32,33,Player A
+136,PatternLearningPlayer,250,200,450,25,25,Player A
+137,PatternLearningPlayer,244,209,453,25,24,Player A
+138,PatternLearningPlayer,227,207,434,33,33,Player A
+139,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+140,PatternLearningPlayer,238,198,436,32,32,Player A
+141,PatternLearningPlayer,224,224,448,26,26,Tie
+142,PatternLearningPlayer,215,230,445,26,27,PatternLearningPlayer
+143,PatternLearningPlayer,244,209,453,25,24,Player A
+144,PatternLearningPlayer,224,224,448,26,26,Tie
+145,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+146,PatternLearningPlayer,227,207,434,33,33,Player A
+147,PatternLearningPlayer,215,230,445,26,27,PatternLearningPlayer
+148,PatternLearningPlayer,217,232,449,27,26,PatternLearningPlayer
+149,PatternLearningPlayer,215,230,445,26,27,PatternLearningPlayer
+150,PatternLearningPlayer,244,209,453,25,24,Player A
+151,PatternLearningPlayer,238,198,436,32,32,Player A
+152,PatternLearningPlayer,238,198,436,32,32,Player A
+153,PatternLearningPlayer,224,224,448,26,26,Tie
+154,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+155,PatternLearningPlayer,250,200,450,25,25,Player A
+156,PatternLearningPlayer,232,202,434,33,33,Player A
+157,PatternLearningPlayer,232,202,434,33,33,Player A
+158,PatternLearningPlayer,223,228,451,26,25,PatternLearningPlayer
+159,PatternLearningPlayer,238,198,436,32,32,Player A
+160,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+161,PatternLearningPlayer,219,229,448,26,26,PatternLearningPlayer
+162,PatternLearningPlayer,244,209,453,25,24,Player A
+163,PatternLearningPlayer,224,224,448,26,26,Tie
+164,PatternLearningPlayer,220,225,445,26,27,PatternLearningPlayer
+165,PatternLearningPlayer,244,209,453,25,24,Player A
+166,PatternLearningPlayer,224,224,448,26,26,Tie
+167,PatternLearningPlayer,227,207,434,33,33,Player A
+168,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+169,PatternLearningPlayer,218,228,446,27,27,PatternLearningPlayer
+170,PatternLearningPlayer,224,224,448,26,26,Tie
+0,TitForTat,225,225,450,25,25,Tie
+1,TitForTat,225,225,450,25,25,Tie
+2,TitForTat,225,225,450,25,25,Tie
+3,TitForTat,225,225,450,25,25,Tie
+4,TitForTat,225,225,450,25,25,Tie
+5,TitForTat,225,225,450,25,25,Tie
+6,TitForTat,225,225,450,25,25,Tie
+7,TitForTat,225,225,450,25,25,Tie
+8,TitForTat,225,225,450,25,25,Tie
+9,TitForTat,225,225,450,25,25,Tie
+10,TitForTat,225,225,450,25,25,Tie
+0,Bayesian,207,242,449,24,25,Bayesian
+1,Bayesian,206,246,452,24,24,Bayesian
+2,Bayesian,215,240,455,24,23,Bayesian
+3,Bayesian,219,239,458,21,21,Bayesian
+4,Bayesian,255,195,450,25,25,Player A
+5,Bayesian,248,193,441,28,29,Player A
+6,Bayesian,193,253,446,27,27,Bayesian
+7,Bayesian,267,192,459,22,21,Player A
+8,Bayesian,246,201,447,25,26,Player A
+9,Bayesian,196,256,452,24,24,Bayesian
+10,Bayesian,242,212,454,23,23,Player A
+11,Bayesian,226,231,457,23,22,Bayesian
+12,Bayesian,198,258,456,22,22,Bayesian
+13,Bayesian,230,220,450,25,25,Player A
+14,Bayesian,196,251,447,25,26,Bayesian
+15,Bayesian,234,219,453,25,24,Player A
+16,Bayesian,244,204,448,26,26,Player A
+17,Bayesian,195,255,450,25,25,Bayesian
+18,Bayesian,210,235,445,26,27,Bayesian
+19,Bayesian,232,212,444,28,28,Player A
+20,Bayesian,272,182,454,23,23,Player A
+21,Bayesian,217,232,449,27,26,Bayesian
+22,Bayesian,253,198,451,23,24,Player A
+23,Bayesian,221,236,457,23,22,Bayesian
+24,Bayesian,206,241,447,25,26,Bayesian
+25,Bayesian,269,184,453,25,24,Player A
+26,Bayesian,214,234,448,26,26,Bayesian
+27,Bayesian,213,228,441,28,29,Bayesian
+28,Bayesian,249,199,448,26,26,Player A
+29,Bayesian,177,277,454,23,23,Bayesian
+30,Bayesian,188,258,446,27,27,Bayesian
+31,Bayesian,240,205,445,29,28,Player A
+32,Bayesian,190,250,440,30,30,Bayesian
+33,Bayesian,210,235,445,26,27,Bayesian
+34,Bayesian,232,212,444,28,28,Player A
+35,Bayesian,212,232,444,28,28,Bayesian
+36,Bayesian,302,157,459,22,21,Player A
+37,Bayesian,238,208,446,27,27,Player A
+38,Bayesian,224,219,443,27,28,Player A
+39,Bayesian,162,282,444,28,28,Bayesian
+40,Bayesian,223,233,456,22,22,Bayesian
+41,Bayesian,243,213,456,22,22,Player A
+42,Bayesian,231,216,447,28,27,Player A
+43,Bayesian,212,232,444,28,28,Bayesian
+44,Bayesian,198,248,446,27,27,Bayesian
+45,Bayesian,225,235,460,20,20,Bayesian
+46,Bayesian,218,228,446,27,27,Bayesian
+47,Bayesian,261,196,457,20,21,Player A
+48,Bayesian,219,229,448,26,26,Bayesian
+49,Bayesian,202,247,449,27,26,Bayesian
+50,Bayesian,260,190,450,25,25,Player A
+51,Bayesian,194,249,443,27,28,Bayesian
+52,Bayesian,240,210,450,25,25,Player A
+53,Bayesian,235,220,455,24,23,Player A
+54,Bayesian,190,245,435,31,32,Bayesian
+55,Bayesian,246,206,452,24,24,Player A
+56,Bayesian,189,274,463,20,19,Bayesian
+57,Bayesian,232,217,449,24,25,Player A
+58,Bayesian,230,225,455,24,23,Player A
+59,Bayesian,240,210,450,25,25,Player A
+60,Bayesian,246,201,447,25,26,Player A
+61,Bayesian,194,249,443,30,29,Bayesian
+62,Bayesian,237,217,454,23,23,Player A
+63,Bayesian,257,187,444,28,28,Player A
+64,Bayesian,230,210,440,30,30,Player A
+65,Bayesian,201,261,462,19,19,Bayesian
+66,Bayesian,208,238,446,27,27,Bayesian
+67,Bayesian,199,244,443,27,28,Bayesian
+68,Bayesian,197,252,449,27,26,Bayesian
+69,Bayesian,220,230,450,25,25,Bayesian
+70,Bayesian,253,193,446,27,27,Player A
+71,Bayesian,217,227,444,28,28,Bayesian
+72,Bayesian,187,257,444,28,28,Bayesian
+73,Bayesian,262,187,449,24,25,Player A
+74,Bayesian,228,208,436,32,32,Player A
+75,Bayesian,248,208,456,22,22,Player A
+76,Bayesian,252,197,449,27,26,Player A
+77,Bayesian,253,188,441,28,29,Player A
+78,Bayesian,266,186,452,24,24,Player A
+79,Bayesian,224,224,448,26,26,Tie
+80,Bayesian,242,202,444,28,28,Player A
+81,Bayesian,238,213,451,26,25,Player A
+82,Bayesian,210,235,445,26,27,Bayesian
+83,Bayesian,253,198,451,26,25,Player A
+84,Bayesian,234,219,453,22,23,Player A
+85,Bayesian,227,227,454,23,23,Tie
+86,Bayesian,190,260,450,25,25,Bayesian
+87,Bayesian,225,225,450,25,25,Tie
+88,Bayesian,191,256,447,28,27,Bayesian
+89,Bayesian,237,217,454,23,23,Player A
+90,Bayesian,245,215,460,20,20,Player A
+91,Bayesian,215,235,450,25,25,Bayesian
+92,Bayesian,253,208,461,18,19,Player A
+93,Bayesian,220,235,455,24,23,Bayesian
+94,Bayesian,177,267,444,28,28,Bayesian
+95,Bayesian,231,221,452,24,24,Player A
+96,Bayesian,252,192,444,28,28,Player A
+97,Bayesian,244,209,453,22,23,Player A
+98,Bayesian,184,264,448,26,26,Bayesian
+99,Bayesian,215,240,455,24,23,Bayesian
+100,Bayesian,240,205,445,26,27,Player A
+101,Bayesian,208,243,451,26,25,Bayesian
+102,Bayesian,224,214,438,31,31,Player A
+103,Bayesian,203,243,446,27,27,Bayesian
+104,Bayesian,183,258,441,28,29,Bayesian
+105,Bayesian,211,246,457,23,22,Bayesian
+106,Bayesian,243,198,441,28,29,Player A
+107,Bayesian,243,213,456,22,22,Player A
+108,Bayesian,209,244,453,25,24,Bayesian
+109,Bayesian,220,225,445,26,27,Bayesian
+110,Bayesian,227,217,444,28,28,Player A
+111,Bayesian,240,210,450,25,25,Player A
+112,Bayesian,225,225,450,25,25,Tie
+113,Bayesian,212,232,444,28,28,Bayesian
+114,Bayesian,236,216,452,24,24,Player A
+115,Bayesian,212,227,439,32,31,Bayesian
+116,Bayesian,192,257,449,24,25,Bayesian
+117,Bayesian,186,266,452,24,24,Bayesian
+118,Bayesian,228,218,446,27,27,Player A
+0,UCBPlayer,13,483,496,2,2,UCBPlayer
+1,UCBPlayer,13,483,496,2,2,UCBPlayer
+2,UCBPlayer,13,483,496,2,2,UCBPlayer
+3,UCBPlayer,13,483,496,2,2,UCBPlayer
+4,UCBPlayer,13,483,496,2,2,UCBPlayer
+5,UCBPlayer,13,483,496,2,2,UCBPlayer
+6,UCBPlayer,13,483,496,2,2,UCBPlayer
+7,UCBPlayer,13,483,496,2,2,UCBPlayer
+8,UCBPlayer,13,483,496,2,2,UCBPlayer
+9,UCBPlayer,13,483,496,2,2,UCBPlayer
+10,UCBPlayer,13,483,496,2,2,UCBPlayer
+0,JointPQPlayer,339,124,463,20,19,Player A
+1,JointPQPlayer,356,106,462,19,19,Player A
+2,JointPQPlayer,190,275,465,16,17,JointPQPlayer
+3,JointPQPlayer,281,176,457,23,22,Player A
+4,JointPQPlayer,364,99,463,17,18,Player A
+5,JointPQPlayer,318,143,461,21,20,Player A
+6,JointPQPlayer,307,147,454,23,23,Player A
+7,JointPQPlayer,325,130,455,21,22,Player A
+8,JointPQPlayer,264,199,463,20,19,Player A
+9,JointPQPlayer,339,119,458,21,21,Player A
+10,JointPQPlayer,363,103,466,17,17,Player A
+11,JointPQPlayer,253,208,461,18,19,Player A
+12,JointPQPlayer,359,104,463,20,19,Player A
+13,JointPQPlayer,287,167,454,23,23,Player A
+14,JointPQPlayer,270,185,455,21,22,Player A
+15,JointPQPlayer,325,130,455,24,23,Player A
+16,JointPQPlayer,282,182,464,18,18,Player A
+17,JointPQPlayer,346,116,462,19,19,Player A
+18,JointPQPlayer,337,122,459,19,20,Player A
+19,JointPQPlayer,182,267,449,27,26,JointPQPlayer
+20,JointPQPlayer,359,109,468,16,16,Player A
+21,JointPQPlayer,319,134,453,22,23,Player A
+22,JointPQPlayer,283,178,461,21,20,Player A
+23,JointPQPlayer,104,364,468,16,16,JointPQPlayer
+24,JointPQPlayer,324,144,468,16,16,Player A
+25,JointPQPlayer,125,340,465,16,17,JointPQPlayer
+26,JointPQPlayer,102,362,464,18,18,JointPQPlayer
+27,JointPQPlayer,238,218,456,22,22,Player A
+28,JointPQPlayer,214,239,453,25,24,JointPQPlayer
+29,JointPQPlayer,199,254,453,22,23,JointPQPlayer
+30,JointPQPlayer,124,339,463,20,19,JointPQPlayer
+31,JointPQPlayer,97,362,459,19,20,JointPQPlayer
+32,JointPQPlayer,219,234,453,25,24,JointPQPlayer
+33,JointPQPlayer,299,164,463,17,18,Player A
+34,JointPQPlayer,354,104,458,21,21,Player A
+35,JointPQPlayer,298,163,461,21,20,Player A
+36,JointPQPlayer,227,232,459,19,20,JointPQPlayer
+37,JointPQPlayer,120,340,460,20,20,JointPQPlayer
+38,JointPQPlayer,346,111,457,23,22,Player A
+39,JointPQPlayer,298,158,456,22,22,Player A
+40,JointPQPlayer,267,187,454,23,23,Player A
+41,JointPQPlayer,129,324,453,22,23,JointPQPlayer
+42,JointPQPlayer,284,179,463,20,19,Player A
+43,JointPQPlayer,348,118,466,17,17,Player A
+44,JointPQPlayer,85,385,470,15,15,JointPQPlayer
+45,JointPQPlayer,318,133,451,23,24,Player A
+46,JointPQPlayer,363,103,466,17,17,Player A
+47,JointPQPlayer,326,126,452,24,24,Player A
+48,JointPQPlayer,298,163,461,21,20,Player A
+49,JointPQPlayer,177,282,459,19,20,JointPQPlayer
+50,JointPQPlayer,183,288,471,16,15,JointPQPlayer
+51,JointPQPlayer,87,382,469,14,15,JointPQPlayer
+52,JointPQPlayer,321,146,467,18,17,Player A
+53,JointPQPlayer,346,116,462,19,19,Player A
+54,JointPQPlayer,335,125,460,20,20,Player A
+55,JointPQPlayer,201,266,467,15,16,JointPQPlayer
+0,revTitforTat,200,200,400,50,50,Tie
+1,revTitforTat,200,200,400,50,50,Tie
+2,revTitforTat,200,200,400,50,50,Tie
+3,revTitforTat,200,200,400,50,50,Tie
+4,revTitforTat,200,200,400,50,50,Tie
+5,revTitforTat,200,200,400,50,50,Tie
+6,revTitforTat,200,200,400,50,50,Tie
+7,revTitforTat,200,200,400,50,50,Tie
+8,revTitforTat,200,200,400,50,50,Tie
+9,revTitforTat,200,200,400,50,50,Tie
+10,revTitforTat,200,200,400,50,50,Tie
+0,PatternPlayer,215,220,435,34,33,PatternPlayer
+1,PatternPlayer,218,213,431,33,34,Player A
+2,PatternPlayer,215,220,435,34,33,PatternPlayer
+3,PatternPlayer,217,217,434,33,33,Tie
+4,PatternPlayer,218,213,431,33,34,Player A
+5,PatternPlayer,215,220,435,34,33,PatternPlayer
+6,PatternPlayer,217,217,434,33,33,Tie
+7,PatternPlayer,218,213,431,33,34,Player A
+8,PatternPlayer,215,220,435,34,33,PatternPlayer
+9,PatternPlayer,217,217,434,33,33,Tie
+10,PatternPlayer,218,213,431,33,34,Player A
+11,PatternPlayer,215,220,435,34,33,PatternPlayer
+12,PatternPlayer,217,217,434,33,33,Tie
+0,GrudgePlayer,180,280,460,20,20,GrudgePlayer
+1,GrudgePlayer,180,280,460,20,20,GrudgePlayer
+2,GrudgePlayer,180,280,460,20,20,GrudgePlayer
+3,GrudgePlayer,180,280,460,20,20,GrudgePlayer
+4,GrudgePlayer,180,280,460,20,20,GrudgePlayer
+5,GrudgePlayer,180,280,460,20,20,GrudgePlayer
+6,GrudgePlayer,180,280,460,20,20,GrudgePlayer
+7,GrudgePlayer,180,280,460,20,20,GrudgePlayer
+8,GrudgePlayer,180,280,460,20,20,GrudgePlayer
+9,GrudgePlayer,180,280,460,20,20,GrudgePlayer
+10,GrudgePlayer,180,280,460,20,20,GrudgePlayer
+0,Gullible,500,0,500,0,0,Player A
+1,Gullible,500,0,500,0,0,Player A
+2,Gullible,500,0,500,0,0,Player A
+3,Gullible,500,0,500,0,0,Player A
+4,Gullible,500,0,500,0,0,Player A
+5,Gullible,500,0,500,0,0,Player A
+6,Gullible,500,0,500,0,0,Player A
+7,Gullible,500,0,500,0,0,Player A
+8,Gullible,500,0,500,0,0,Player A
+9,Gullible,500,0,500,0,0,Player A
+10,Gullible,500,0,500,0,0,Player A
+0,Sly Fox,1,496,497,0,1,Sly Fox
+1,Sly Fox,0,500,500,0,0,Sly Fox
+2,Sly Fox,0,500,500,0,0,Sly Fox
+3,Sly Fox,0,500,500,0,0,Sly Fox
+4,Sly Fox,0,500,500,0,0,Sly Fox
+5,Sly Fox,0,500,500,0,0,Sly Fox
+6,Sly Fox,0,500,500,0,0,Sly Fox
+7,Sly Fox,0,500,500,0,0,Sly Fox
+8,Sly Fox,0,500,500,0,0,Sly Fox
+9,Sly Fox,0,500,500,0,0,Sly Fox
+10,Sly Fox,0,500,500,0,0,Sly Fox
+0,Evan,199,204,403,50,49,Evan
+1,Evan,200,200,400,50,50,Tie
+2,Evan,200,200,400,50,50,Tie
+3,Evan,200,200,400,50,50,Tie
+4,Evan,200,200,400,50,50,Tie
+5,Evan,200,200,400,50,50,Tie
+6,Evan,200,200,400,50,50,Tie
+7,Evan,200,200,400,50,50,Tie
+8,Evan,200,200,400,50,50,Tie
+9,Evan,200,200,400,50,50,Tie
+10,Evan,200,200,400,50,50,Tie
+0,Randy,201,246,447,25,26,Randy
+1,Randy,248,203,451,26,25,Player A
+2,Randy,258,198,456,22,22,Player A
+3,Randy,219,229,448,26,26,Randy
+4,Randy,225,225,450,25,25,Tie
+5,Randy,242,212,454,23,23,Player A
+6,Randy,218,233,451,23,24,Randy
+7,Randy,197,247,444,28,28,Randy
+8,Randy,208,238,446,27,27,Randy
+9,Randy,191,266,457,23,22,Randy
+10,Randy,248,198,446,27,27,Player A
+11,Randy,281,166,447,25,26,Player A
+12,Randy,229,219,448,26,26,Player A
+13,Randy,279,179,458,21,21,Player A
+14,Randy,260,190,450,25,25,Player A
+15,Randy,235,220,455,24,23,Player A
+16,Randy,214,239,453,22,23,Randy
+17,Randy,262,197,459,22,21,Player A
+18,Randy,239,219,458,21,21,Player A
+19,Randy,242,207,449,24,25,Player A
+20,Randy,269,184,453,25,24,Player A
+21,Randy,214,229,443,27,28,Randy
+22,Randy,234,219,453,25,24,Player A
+23,Randy,208,243,451,23,24,Randy
+24,Randy,200,250,450,25,25,Randy
+25,Randy,233,218,451,26,25,Player A
+26,Randy,198,243,441,28,29,Randy
+27,Randy,242,207,449,27,26,Player A
+28,Randy,290,160,450,25,25,Player A
+29,Randy,267,177,444,28,28,Player A
+30,Randy,237,207,444,28,28,Player A
+31,Randy,249,209,458,21,21,Player A
+32,Randy,217,232,449,24,25,Randy
+33,Randy,247,197,444,28,28,Player A
+34,Randy,254,199,453,25,24,Player A
+35,Randy,226,226,452,24,24,Tie
+36,Randy,160,280,440,30,30,Randy
+37,Randy,245,205,450,25,25,Player A
+38,Randy,231,211,442,29,29,Player A
+39,Randy,260,185,445,26,27,Player A
+40,Randy,281,166,447,28,27,Player A
+41,Randy,277,172,449,24,25,Player A
+42,Randy,258,193,451,26,25,Player A
+43,Randy,245,200,445,26,27,Player A
+44,Randy,234,214,448,26,26,Player A
+45,Randy,242,207,449,27,26,Player A
+46,Randy,220,225,445,26,27,Randy
+47,Randy,216,241,457,23,22,Randy
+48,Randy,212,242,454,23,23,Randy
+49,Randy,201,246,447,25,26,Randy
+50,Randy,245,210,455,24,23,Player A
+51,Randy,228,223,451,23,24,Player A
+52,Randy,228,223,451,26,25,Player A
+53,Randy,247,202,449,24,25,Player A
+54,Randy,254,199,453,25,24,Player A
+55,Randy,225,220,445,26,27,Player A
+56,Randy,238,213,451,26,25,Player A
+57,Randy,259,189,448,26,26,Player A
+58,Randy,215,235,450,25,25,Randy
+59,Randy,260,195,455,21,22,Player A
+60,Randy,232,227,459,22,21,Player A
+61,Randy,220,225,445,26,27,Randy
+62,Randy,213,238,451,26,25,Randy
+63,Randy,235,215,450,25,25,Player A
+64,Randy,177,267,444,28,28,Randy
+65,Randy,248,208,456,22,22,Player A
+66,Randy,225,220,445,26,27,Player A
+67,Randy,251,206,457,23,22,Player A
+68,Randy,241,211,452,24,24,Player A
+69,Randy,249,199,448,26,26,Player A
+70,Randy,221,231,452,24,24,Randy
+71,Randy,247,202,449,24,25,Player A
