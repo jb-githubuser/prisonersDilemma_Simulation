@@ -1,12 +1,55 @@
-Hey everyone
+# Prisoner's Dilemma Simulation
 
-My name is Jayden Bai and I am an undergraduate at Emory University studying Statistics + CS and minoring in Neuroethics. I created this project to learn more about machine-learning and I had an interest in game theory. Feel free to message me or connect if you have any questions about the paper!
+A game-theory simulation written in Java that pits various classical and learning-based strategies against each other in iterated Prisoner's Dilemma matches. Results are exported as CSV files for analysis and visualization in Python.
 
-email: jayden.bai@emory.edu
-linkedin: https://www.linkedin.com/in/jayden-bai-7b9253284/ 
+## Strategies
 
-The game/simulation was programmed in Java which used FileWriter to create CSV to be then be processed and visualized in Python. 
+| Player | Description |
+|---|---|
+| `ReinforcementLearningPlayer` | Q-learning agent that adapts based on opponent moves |
+| `PatternLearningPlayer` | Tracks opponent move history to predict next action |
+| `BayesianInferencePlayer` | Updates beliefs about opponent cooperativeness each round |
+| `UCBPlayer` | Upper Confidence Bound bandit; balances exploration and exploitation |
+| `JointPQLearningPlayer` | Joint-action Q-learning that accounts for both players' rewards |
+| `titForTat` | Cooperates first, then mirrors the opponent's last move |
+| `revtitForTat` | Defects first, then mirrors the opposite of the opponent's last move |
+| `grudgePlayer` | Cooperates until betrayed, then defects forever |
+| `patternPlayer` | Alternates cooperation/defection on a fixed pattern |
+| `alwaysCooperate` | Cooperates every round |
+| `alwaysDefect` | Defects every round |
+| `alternateEven` | Alternates moves starting with cooperate |
+| `random` | Randomly cooperates or defects each round |
 
-I encourage anyone to tweak the code and run their own simulations and see what new implications can be made from this simulation. Make sure to change the paths to each dataset if you're going to implement your own data into the Python analysis. 
+## Project Structure
 
-Thanks for reading!
+```
+prisonersDilemma_Simulation/
+├── Game.java          # Main simulation runner and CSV exporter
+└── players/           # All player strategy classes (players package)
+    ├── Player.java    # Abstract base class
+    └── *.java         # Individual strategy implementations
+```
+
+## Building & Running
+
+From the project root:
+
+```bash
+javac Game.java players/*.java
+java Game
+```
+
+To export results to a CSV, uncomment the `generateResultsCSV` call in `main` and specify an output file name.
+
+## Payoff Matrix
+
+|  | Cooperate | Defect |
+|---|---|---|
+| **Cooperate** | +3 / +3 | +0 / +5 |
+| **Defect** | +5 / +0 | +1 / +1 |
+
+## Contact
+
+Jayden Bai — undergraduate at Emory University (Statistics + CS, Neuroethics minor)  
+Email: jayden.bai@emory.edu  
+LinkedIn: [jayden-bai](https://www.linkedin.com/in/jayden-bai/)
