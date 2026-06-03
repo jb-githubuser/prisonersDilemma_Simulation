@@ -1,0 +1,7 @@
+# Compiled Java class files
+*.class
+
+# Output directory (if you ever use: javac -d out ...)
+out/
+
+.DS_Store
